@@ -1,5 +1,3 @@
-### This repository will hold slides, notebooks, and data for NSS Data Analytics and Data Science students to learn to work with geospatial data. 
-
 ### 1. Getting Started With the Geospatial Environment
 To run the notebook for this project, you will need some additional python packages. 
 You can install these using conda. 
